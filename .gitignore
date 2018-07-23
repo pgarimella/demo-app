@@ -1,0 +1,4 @@
+*.pyc
+.gitreview
+env
+flashkr.db
